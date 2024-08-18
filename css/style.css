@@ -900,7 +900,7 @@ img {
 
 .social_icon {
     width: 100%;
-    float: left;
+    float: center;
 }
 
 .social_icon ul {
@@ -934,10 +934,15 @@ img {
     color: #0b0b0c;
 }
 
-.copyright_text a:hover {
-    color: #402fb7;
+/* .copyright_text a:hover {
+    color: #402fb7; */
 }
 
 .margin_top_90 {
     margin-top: 90px;
+}
+
+.social_icon {
+    color: #878585;
+    font-size: 16px;
 }
